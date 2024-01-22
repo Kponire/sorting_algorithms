@@ -3,3 +3,5 @@
 ## 1. Insertion sort
 ## 2. Selection sort
 ## 3. Quick sort
+## 4. Shell sort - Knuth Sequence
+## 5. Cocktail shaker sort
